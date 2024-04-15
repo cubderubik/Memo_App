@@ -1,4 +1,4 @@
-# Memo-App by Pol Sances
+# Memo-App by Cub de Rubik
 
 ***IMPORTANT*** 
 You must download all the files and keep them all in the same folder in order to succesfully execute this app.
