@@ -16,3 +16,5 @@ Has de descarregar tots els fitxers i mantenir-los tots a la mateixa carpeta per
 Aquesta és una aplicació programada per practicar la memorització de les lletres en la categoria 3BLD del cub de Rubik, que implica memoritzar lletres per resoldre el cub amb els ulls vendats.
 
 Està feta per un speedcuber i és per a speedcubers.
+
+### ELS COMMITS NO ES PODEN VISUALITZAR PER LA POLÍTICA DE LES BASES
