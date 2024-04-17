@@ -9,7 +9,7 @@ from tkinter import messagebox
 class MemorizeApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Memo App by Pol Sances")
+        self.root.title("Memo App by Cub de Rubik")
         self.root.geometry("500x500")
         self.root.iconbitmap("Brain.ico")
 
