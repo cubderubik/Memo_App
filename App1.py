@@ -39,7 +39,7 @@ class MemorizeApp:
         self.submit_button.config(state="disabled")
         self.reset_button.config(state="disabled")
 
-        self.name = tk.Label(self.root, text="Made by Pol Sances Guirao", font=("Arial", 8))
+        self.name = tk.Label(self.root, text="Made by Cub de Rubik", font=("Arial", 8))
         self.name.pack(pady=20)
 
      # Function to generate letters
